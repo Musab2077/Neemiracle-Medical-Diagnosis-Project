@@ -1,6 +1,7 @@
 # Neemiracle-Medical-Diagnosis-Project
 This is an Internship Project based on **Medical Diagnosis**.
 There are two folders:
+
     Medical Diagnosis
     Brain Tumor
 
